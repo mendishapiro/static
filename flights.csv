@@ -1,0 +1,11 @@
+origin_airport,destination_airport,description,image[0].url,image[0].tag[0],url,price,origin_city,destination_city,priority
+TLV,JFK,Book your ticket for TLV to JFK,https://elal.app.bidflyer.com/assets/airports/NYC/image/fb_side,seat,https://www.elal.com/he/Pages/Bid2Fly.aspx#bidflyer/auctions/iata/TLV/NYC,679.00 USD,Tel Aviv,New York City,1
+TLV,BER,Book your ticket for TLV to BER,https://elal.app.bidflyer.com/assets/airports/BER/image/fb_side,seat,https://www.elal.com/he/Pages/Bid2Fly.aspx#bidflyer/auctions/iata/TLV/BER,119.00 USD,Tel Aviv,Berlin,1
+TLV,VIE,Book your ticket for TLV to VIE,https://elal.app.bidflyer.com/assets/airports/VIE/image/fb_side,seat,https://www.elal.com/he/Pages/Bid2Fly.aspx#bidflyer/auctions/iata/TLV/VIE,125.00 USD,Tel Aviv,Vienna,1
+TLV,SFO,Book your ticket for TLV to SFO,https://elal.app.bidflyer.com/assets/airports/SFO/image/fb_side,seat,https://www.elal.com/he/Pages/Bid2Fly.aspx#bidflyer/auctions/iata/TLV/SFO,579.00 USD,Tel Aviv,San Francisco,1
+TLV,BOS,Book your ticket for TLV to BOS,https://elal.app.bidflyer.com/assets/airports/BOS/image/fb_side,seat,https://www.elal.com/he/Pages/Bid2Fly.aspx#bidflyer/auctions/iata/TLV/BOS,649.00 USD,Tel Aviv,Boston,1
+TLV,LAS,Book your ticket for TLV to LAS,https://elal.app.bidflyer.com/assets/airports/LAS/image/fb_side,seat,https://www.elal.com/he/Pages/Bid2Fly.aspx#bidflyer/auctions/iata/TLV/LAS,649.00 USD,Tel Aviv,Las Vegas,1
+TLV,MIA,Book your ticket for TLV to MIA,https://elal.app.bidflyer.com/assets/airports/MIA/image/fb_side,seat,https://www.elal.com/he/Pages/Bid2Fly.aspx#bidflyer/auctions/iata/TLV/MIA,729.00 USD,Tel Aviv,Miami,1
+TLV,BRU,Book your ticket for TLV to BRU,https://elal.app.bidflyer.com/assets/airports/BRU/image/fb_side,seat,https://www.elal.com/he/Pages/Bid2Fly.aspx#bidflyer/auctions/iata/TLV/BRU,133.00 USD,Tel Aviv,Brussells,1
+TLV,ATH,Book your ticket for TLV to ATH,https://elal.app.bidflyer.com/assets/airports/ATH/image/fb_side,seat,https://www.elal.com/he/Pages/Bid2Fly.aspx#bidflyer/auctions/iata/TLV/ATH,102.00 USD,Tel Aviv,Athens,1
+TLV,LAX,Book your ticket for TLV to LAX,https://elal.app.bidflyer.com/assets/airports/LAX/image/fb_side,seat,https://www.elal.com/he/Pages/Bid2Fly.aspx#bidflyer/auctions/iata/TLV/LAX,769.00 USD,Tel Aviv,Los Angeles,1
